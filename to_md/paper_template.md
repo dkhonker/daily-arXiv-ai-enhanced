@@ -1,23 +1,23 @@
 ### [{idx}] [{title}]({url})
 *{authors}*
 
-Main category: {cate}
+**Main category:** {cate}
 
-TL;DR: {tldr}
+**TL;DR:** {tldr}
 
 
 <details>
   <summary>Details</summary>
-Motivation: {motivation}
+**Motivation:** {motivation}
 
-Method: {method}
+**Method:** {method}
 
-Result: {result}
+**Result:** {result}
 
-Conclusion: {conclusion}
+**Conclusion:** {conclusion}
 
-Ai: {assistant_link_markdown}
+**Ai:** {assistant_link_markdown}
 
-Abstract: {summary}
+**Abstract:** {summary}
 
 </details>
