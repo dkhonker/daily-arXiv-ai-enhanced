@@ -16,7 +16,7 @@ Result: {result}
 
 Conclusion: {conclusion}
 
-Ai: {assistant}
+Ai: {assistant_link_markdown}
 
 Abstract: {summary}
 
