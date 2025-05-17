@@ -16,6 +16,8 @@ Result: {result}
 
 Conclusion: {conclusion}
 
+Ai: {assistant}
+
 Abstract: {summary}
 
 </details>
