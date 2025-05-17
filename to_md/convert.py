@@ -58,10 +58,10 @@ if __name__ == "__main__":
             cnt[item_categories[0]] += 1
 
     # 生成Markdown目录
-    markdown = f"<div id=toc></div>\n\n# Table of Contents\n\n"
+    markdown = f"<div id=toc></div>\n\n# 目录\n\n"
     for cate_toc in sorted_categories: # 使用排序后的类别列表
         if cnt.get(cate_toc, 0) > 0: # 只显示有条目的类别
-            markdown += f"- [{cate_toc}](#{cate_toc}) [Total: {cnt[cate_toc]}]\n"
+            markdown += f"- [{cate_toc}](#{cate_toc}) [总数: {cnt[cate_toc]}]\n"
 
     # 生成各类别下的Markdown内容
     item_idx_counter = count(1)
