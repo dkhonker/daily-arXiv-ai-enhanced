@@ -8,7 +8,8 @@
 
 <details>
   <summary>Details</summary>
-**动机n:** {motivation}
+  
+**动机:** {motivation}
 
 **方法:** {method}
 
