@@ -1,22 +1,22 @@
 ### [{idx}] [{title}]({url})
 *{authors}*
 
-**Main category:** {cate}
+**主要类别:** {cate}
 
-**TL;DR:** {tldr}
+**概要:** {tldr}
 
 
 <details>
   <summary>Details</summary>
-**Motivation:** {motivation}
+**动机n:** {motivation}
 
-**Method:** {method}
+**方法:** {method}
 
-**Result:** {result}
+**结果:** {result}
 
-**Conclusion:** {conclusion}
+**结论:** {conclusion}
 
-**Ai:** {assistant_link_markdown}
+**与AI讨论:** {assistant_link_markdown}
 
 **Abstract:** {summary}
 
