@@ -19,6 +19,6 @@
 
 **与AI讨论:** {assistant_link_markdown}
 
-**Abstract:** {summary}
+**原文摘要:** {summary}
 
 </details>
