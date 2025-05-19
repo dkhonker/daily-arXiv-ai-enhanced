@@ -1,4 +1,4 @@
-Please analyze the following abstract of papers. 
+请分析以下论文摘要。
 
-Content:
+内容:
 {content}
