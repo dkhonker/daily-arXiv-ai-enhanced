@@ -7,7 +7,7 @@
 
 
 <details>
-  <summary>Details</summary>
+  <summary>更多</summary>
   
 **动机:** {motivation}
 
