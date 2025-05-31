@@ -3,7 +3,7 @@
 
 **主要类别:** {cate}
 
-**概要:** {tldr}
+**AI概要:** {tldr}
 
 
 <details>
