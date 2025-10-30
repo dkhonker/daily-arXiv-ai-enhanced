@@ -104,7 +104,8 @@ if __name__ == "__main__":
             prefill_prompt_string = "，".join(prefill_prompt_parts)
             
             # 构建完整的Kimi助手URL
-            assistant_url = f"https://kimi.moonshot.cn/_prefill_chat?prefill_prompt={prefill_prompt_string}&send_immediately=true&force_search=false"
+            assistant_url = f"https://kimi.moonshot.cn/_prefill_chat?prefill_prompt={prefill_prompt_string}&system_prompt=你是一个学术助手，后面的对话将围绕着以下论文内容进行，已经通过链接给出了论文的PDF和论文已有的FAQ。用户将继续向你咨询论文的相关问题，请你作出专业的回答，不要出现第一人称，当涉及到分点回答时，鼓励你以markdown格式输出。&send_immediately=true&force_search=false"
+
             # 创建Markdown格式的链接
             assistant_link_markdown = f"[Discuss with Kimi]({assistant_url})"
 
